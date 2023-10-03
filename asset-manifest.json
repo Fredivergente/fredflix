@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fredivergente/fredflix/static/css/main.82014cee.css",
+    "main.js": "/Fredivergente/fredflix/static/js/main.3eb13db5.js",
+    "static/js/787.2e725166.chunk.js": "/Fredivergente/fredflix/static/js/787.2e725166.chunk.js",
+    "index.html": "/Fredivergente/fredflix/index.html",
+    "main.82014cee.css.map": "/Fredivergente/fredflix/static/css/main.82014cee.css.map",
+    "main.3eb13db5.js.map": "/Fredivergente/fredflix/static/js/main.3eb13db5.js.map",
+    "787.2e725166.chunk.js.map": "/Fredivergente/fredflix/static/js/787.2e725166.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82014cee.css",
+    "static/js/main.3eb13db5.js"
+  ]
+}
