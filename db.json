@@ -1,0 +1,50 @@
+{
+    "video": [
+        {
+        "id": "13",
+        "title": "La magia detrás de Java #aluramás",
+        "url": "https://www.youtube.com/watch?v=GrEO8nZzyZM"
+
+        },
+
+        {
+        "id": "15",
+        "title": "Spring Framework. ¿Qué es ? #AluraMás",
+        "url": "https://www.youtube.com/watch?v=t-iqt1b2qqk"
+
+        },
+        {
+        "id": "16",
+        "title": "Simplificando tu código en Java: Conoce los enum #AluraMás",
+        "url": "https://www.youtube.com/watch?v=EoPvlE85XAQ"
+
+        },
+        {
+        "id": "91",
+        "title": "Animando un texto en HTML y CSS #AluraMás",
+        "url": "https://www.youtube.com/watch?v=j71g5TiMA-M"
+        },
+        {
+        "id": "100",
+        "title": "¿Qué es JavaScript?",
+        "url": "https://www.youtube.com/watch?v=GJfOSoaXk4s"
+
+        },
+        {
+        "id": "110",
+        "title": "Consejos de CSS FlexBox para comenzar #aluramás",
+        "url": "https://www.youtube.com/watch?v=EB4vWLzfVcI"
+
+        },
+        {
+        "id": "120",
+        "title": "¿Por qué utilizar React?",
+        "url": "https://www.youtube.com/watch?v=MnBNPA45NW8"
+        },
+        {
+        "id": "130",
+        "title": "Box Model y Box sizing #AluraMás",
+        "url": "https://www.youtube.com/watch?v=ts9qfCKamKg"
+        }
+    ]
+}

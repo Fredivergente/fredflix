@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+/* 
+const fetchedMovies = [
+  { title: 'Nuevo video Descartes a Kant', image: 'https://i3.ytimg.com/vi/yC0NdHnc2gg/maxresdefault.jpg' },
+  { title: '¿Qué son las softskills?', image: 'https://i3.ytimg.com/vi/vhwspfvI52k/maxresdefault.jpg' },
+  { title: 'Aprende JS desde cero', image: 'https://i3.ytimg.com/vi/RqQ1d1qEWlE/maxresdefault.jpg' },
+  { title: 'Politigato #70', image: 'https://i3.ytimg.com/vi/-LN6nzTWQTo/maxresdefault.jpg' },
+  // Agrega más películas si es necesario
+]; */
